@@ -1,0 +1,118 @@
+/* home page*/
+
+/*.bordered {
+  border: 1px solid red;
+}*/
+
+.page-border {	
+				width: 100%;
+				height: 100%;
+				border: 18px solid #000;
+				position: fixed;
+				z-index: 2;
+				overflow: scroll;
+}
+
+
+
+#navlist{
+	padding-left: 0px;
+	padding-top: 90px;
+	line-height: 2.5em;
+	font-family: 'Muli', sans-serif;
+	display: inline-block;
+}
+
+.full-container {
+		margin-left: 100px;
+		margin-right: 200px;
+}
+
+#content {
+	padding-top: 20px;
+	margin-left: 0px;
+	font-family: 'Muli', sans-serif;
+}
+h5{
+	font-size: 13px;
+}
+
+.col-md-3 a img {
+	margin-top: 35px;
+}
+
+.inline {
+	display: inline;
+}
+
+ul {
+	list-style-type: none;
+
+}
+
+
+
+.col-md-3 {
+	margin-left: 50px;
+
+}
+
+.col-md-7 {
+	margin-right: 0px;
+	margin-top: 150px;
+}
+
+.col-md-4 {
+	padding-bottom: 50px;
+	text-decoration: none;
+}
+
+
+
+a {
+	text-decoration: none;
+}
+
+a:link {
+	color: #000;
+}
+
+a:visited {
+	color: #000000;
+}
+
+a:hover {
+	color: #45d6bd;
+	text-decoration: none;
+}
+
+a:active {
+	color: #74a259;
+}
+
+
+.row img {
+	border: 5px solid #000;
+} 
+ 
+
+
+.form-control {
+	width: 120px;
+	height: 23px;
+}
+
+/* home page end */
+
+/* about page */
+
+#about{
+	font-family: 'Muli', sans-serif;
+	padding-top: 28px;
+	font-size: 12px;
+}
+
+/*Amateur*/
+
+
+
